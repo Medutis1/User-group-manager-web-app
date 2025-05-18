@@ -171,6 +171,7 @@ function Group() {
             <div className="container">
                 <h1 className="text-center">Group {groupTitle} Details</h1>
                 <div className="row justify-content-center mt-5">
+                    <h2>Debt details</h2>
                     <table className="table">
                         <thead>
                             <tr>
@@ -212,6 +213,7 @@ function Group() {
                 </div>
 
                 <div className="row justify-content-center mt-5">
+                    <h2>Transaction details</h2>
                     <table className="table">
                         <thead>
                             <tr>
